@@ -16,7 +16,7 @@ Hi 👋, I am **Ravikiran B** an enthusiastic and ambitious iOS mobile app devel
 
 - 💬 Ask me about **iOS Development, Swift, and SwiftUI**
 
-- 📫 Reach me out at **ravikiran.b2003@gmail.como**
+- 📫 Reach me out at **ravikiran.b2003@gmail.com**
 
 </details>
   
